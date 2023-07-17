@@ -13,7 +13,7 @@ To compile and run the code, make sure you have the following:
 - C++ compiler
 - GNU Make
 
-## Usage
+## Usage 
 
 The program takes command-line arguments to specify the origin directory, destination directory, and optional flags. The basic syntax is as follows:
 
