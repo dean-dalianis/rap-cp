@@ -54,4 +54,8 @@ Here are some examples demonstrating the usage of the rapcp tool:
   ```
   ./rapcp -l <origin_directory> <destination_directory>
   ```
-  
+
+## 📄 License
+
+This project is licensed under the `MIT` License. See the [LICENSE](LICENSE) file for additional info.
+
