@@ -1,4 +1,8 @@
-# Rapid Copy (rapCp)
+# Rapid Copy (rap-cp)
+
+![GitHub top language](https://img.shields.io/github/languages/top/dean-dalianis/rap-cp?style=flat-square&color=5D6D7E)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dean-dalianis/rap-cp?style=flat-square&color=5D6D7E)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This is a command-line tool, implemented in C++, that performs rapid copying of files and directories from an origin directory to a destination directory. It ensures that the destination directory remains in sync with the origin directory, efficiently copying only the updated and missing files. The tool supports various options such as verbose mode and symbolic links preservation.
 
